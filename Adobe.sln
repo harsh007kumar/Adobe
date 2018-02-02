@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsInAGivenString"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSetBitsInAnInteger", "CountSetBitsInAnInteger\CountSetBitsInAnInteger.csproj", "{4EC360A9-F88E-4B02-967E-842B86C2035E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryToDecimal", "BinaryToDecimal\BinaryToDecimal.csproj", "{594E01D3-05B6-4450-A364-D939339CEDDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,5 +21,9 @@ Global
 		{4EC360A9-F88E-4B02-967E-842B86C2035E}.Debug|x86.Build.0 = Debug|Any CPU
 		{4EC360A9-F88E-4B02-967E-842B86C2035E}.Release|x86.ActiveCfg = Release|Any CPU
 		{4EC360A9-F88E-4B02-967E-842B86C2035E}.Release|x86.Build.0 = Release|Any CPU
+		{594E01D3-05B6-4450-A364-D939339CEDDA}.Debug|x86.ActiveCfg = Debug|x86
+		{594E01D3-05B6-4450-A364-D939339CEDDA}.Debug|x86.Build.0 = Debug|x86
+		{594E01D3-05B6-4450-A364-D939339CEDDA}.Release|x86.ActiveCfg = Release|x86
+		{594E01D3-05B6-4450-A364-D939339CEDDA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

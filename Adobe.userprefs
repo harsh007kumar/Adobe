@@ -1,11 +1,11 @@
-﻿<Properties StartupConfiguration="{4EC360A9-F88E-4B02-967E-842B86C2035E}|Default">
+﻿<Properties StartupConfiguration="{594E01D3-05B6-4450-A364-D939339CEDDA}|Default">
   <MonoDevelop.Ide.ItemProperties.ReverseWordsInAGivenString PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ReverseWordsInAGivenString/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinaryToDecimal/Program.cs">
     <Files>
-      <File FileName="ReverseWordsInAGivenString/Program.cs" Line="6" Column="6" />
-      <File FileName="CountSetBitsInAnInteger/Program.cs" Line="1" Column="1" />
+      <File FileName="BinaryToDecimal/Program.cs" Line="21" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BinaryToDecimal PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

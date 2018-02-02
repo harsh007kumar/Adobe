@@ -1,0 +1,5 @@
+/Users/harsh/Projects/Adobe/BinaryToDecimal/bin/Debug/BinaryToDecimal.exe
+/Users/harsh/Projects/Adobe/BinaryToDecimal/bin/Debug/BinaryToDecimal.pdb
+/Users/harsh/Projects/Adobe/BinaryToDecimal/obj/x86/Debug/BinaryToDecimal.csproj.CoreCompileInputs.cache
+/Users/harsh/Projects/Adobe/BinaryToDecimal/obj/x86/Debug/BinaryToDecimal.exe
+/Users/harsh/Projects/Adobe/BinaryToDecimal/obj/x86/Debug/BinaryToDecimal.pdb
