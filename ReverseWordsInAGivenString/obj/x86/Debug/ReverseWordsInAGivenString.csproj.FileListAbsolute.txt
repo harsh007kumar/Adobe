@@ -1,0 +1,5 @@
+/Users/harsh/Projects/Adobe/ReverseWordsInAGivenString/bin/Debug/ReverseWordsInAGivenString.exe
+/Users/harsh/Projects/Adobe/ReverseWordsInAGivenString/bin/Debug/ReverseWordsInAGivenString.pdb
+/Users/harsh/Projects/Adobe/ReverseWordsInAGivenString/obj/x86/Debug/ReverseWordsInAGivenString.csproj.CoreCompileInputs.cache
+/Users/harsh/Projects/Adobe/ReverseWordsInAGivenString/obj/x86/Debug/ReverseWordsInAGivenString.exe
+/Users/harsh/Projects/Adobe/ReverseWordsInAGivenString/obj/x86/Debug/ReverseWordsInAGivenString.pdb

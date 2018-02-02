@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsInAGivenString", "ReverseWordsInAGivenString\ReverseWordsInAGivenString.csproj", "{8B9F9F6F-E95B-4AD4-8C53-EFFB9802700E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSetBitsInAnInteger", "CountSetBitsInAnInteger\CountSetBitsInAnInteger.csproj", "{4EC360A9-F88E-4B02-967E-842B86C2035E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B9F9F6F-E95B-4AD4-8C53-EFFB9802700E}.Debug|x86.ActiveCfg = Debug|x86
+		{8B9F9F6F-E95B-4AD4-8C53-EFFB9802700E}.Debug|x86.Build.0 = Debug|x86
+		{8B9F9F6F-E95B-4AD4-8C53-EFFB9802700E}.Release|x86.ActiveCfg = Release|x86
+		{8B9F9F6F-E95B-4AD4-8C53-EFFB9802700E}.Release|x86.Build.0 = Release|x86
+		{4EC360A9-F88E-4B02-967E-842B86C2035E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4EC360A9-F88E-4B02-967E-842B86C2035E}.Debug|x86.Build.0 = Debug|Any CPU
+		{4EC360A9-F88E-4B02-967E-842B86C2035E}.Release|x86.ActiveCfg = Release|Any CPU
+		{4EC360A9-F88E-4B02-967E-842B86C2035E}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
