@@ -1,0 +1,5 @@
+/Users/harsh/Projects/Adobe/TEST/bin/Debug/TEST.exe
+/Users/harsh/Projects/Adobe/TEST/bin/Debug/TEST.pdb
+/Users/harsh/Projects/Adobe/TEST/obj/x86/Debug/TEST.csproj.CoreCompileInputs.cache
+/Users/harsh/Projects/Adobe/TEST/obj/x86/Debug/TEST.exe
+/Users/harsh/Projects/Adobe/TEST/obj/x86/Debug/TEST.pdb

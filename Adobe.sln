@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSetBitsInAnInteger", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryToDecimal", "BinaryToDecimal\BinaryToDecimal.csproj", "{594E01D3-05B6-4450-A364-D939339CEDDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{F300DF09-A516-4F5D-A632-E689321D4B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementWhoseSumIsClosetToZero", "ElementWhoseSumIsClosetToZero\ElementWhoseSumIsClosetToZero.csproj", "{8CA1AAA3-16E3-44A7-9928-6CAA080A08F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,5 +29,13 @@ Global
 		{594E01D3-05B6-4450-A364-D939339CEDDA}.Debug|x86.Build.0 = Debug|x86
 		{594E01D3-05B6-4450-A364-D939339CEDDA}.Release|x86.ActiveCfg = Release|x86
 		{594E01D3-05B6-4450-A364-D939339CEDDA}.Release|x86.Build.0 = Release|x86
+		{F300DF09-A516-4F5D-A632-E689321D4B4E}.Debug|x86.ActiveCfg = Debug|x86
+		{F300DF09-A516-4F5D-A632-E689321D4B4E}.Debug|x86.Build.0 = Debug|x86
+		{F300DF09-A516-4F5D-A632-E689321D4B4E}.Release|x86.ActiveCfg = Release|x86
+		{F300DF09-A516-4F5D-A632-E689321D4B4E}.Release|x86.Build.0 = Release|x86
+		{8CA1AAA3-16E3-44A7-9928-6CAA080A08F0}.Debug|x86.ActiveCfg = Debug|x86
+		{8CA1AAA3-16E3-44A7-9928-6CAA080A08F0}.Debug|x86.Build.0 = Debug|x86
+		{8CA1AAA3-16E3-44A7-9928-6CAA080A08F0}.Release|x86.ActiveCfg = Release|x86
+		{8CA1AAA3-16E3-44A7-9928-6CAA080A08F0}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

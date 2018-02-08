@@ -1,0 +1,5 @@
+/Users/harsh/Projects/Adobe/ElementWhoseSumIsClosetToZero/bin/Debug/ElementWhoseSumIsClosetToZero.exe
+/Users/harsh/Projects/Adobe/ElementWhoseSumIsClosetToZero/bin/Debug/ElementWhoseSumIsClosetToZero.pdb
+/Users/harsh/Projects/Adobe/ElementWhoseSumIsClosetToZero/obj/x86/Debug/ElementWhoseSumIsClosetToZero.csproj.CoreCompileInputs.cache
+/Users/harsh/Projects/Adobe/ElementWhoseSumIsClosetToZero/obj/x86/Debug/ElementWhoseSumIsClosetToZero.exe
+/Users/harsh/Projects/Adobe/ElementWhoseSumIsClosetToZero/obj/x86/Debug/ElementWhoseSumIsClosetToZero.pdb

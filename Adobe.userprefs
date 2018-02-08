@@ -1,16 +1,20 @@
-﻿<Properties StartupConfiguration="{594E01D3-05B6-4450-A364-D939339CEDDA}|Default">
+﻿<Properties StartupConfiguration="{8CA1AAA3-16E3-44A7-9928-6CAA080A08F0}|Default">
   <MonoDevelop.Ide.ItemProperties.ReverseWordsInAGivenString PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BinaryToDecimal/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElementWhoseSumIsClosetToZero/Program.cs">
     <Files>
-      <File FileName="BinaryToDecimal/Program.cs" Line="21" Column="32" />
+      <File FileName="BinaryToDecimal/Program.cs" Line="8" Column="19" />
+      <File FileName="TEST/Program.cs" Line="8" Column="10" />
+      <File FileName="ElementWhoseSumIsClosetToZero/Program.cs" Line="3" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.BinaryToDecimal PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.TEST PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ElementWhoseSumIsClosetToZero PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.CountSetBitsInAnInteger PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
